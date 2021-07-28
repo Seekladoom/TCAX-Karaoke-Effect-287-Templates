@@ -1,0 +1,5 @@
+[tcaxPy] Multiple ASS Style Support
+http://www.tcax.org/forum.php?mod=viewthread&tid=168
+
+关于TCAX生成的ASS文件的全局Style的设置
+https://www.tcax.org/forum.php?mod=viewthread&tid=54
